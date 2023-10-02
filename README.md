@@ -30,6 +30,6 @@ $ git push origin name-of-your-branch
 - Once you've pushed your branch, don't forget to make a pull request into the `master` branch.
 
 # contributors
-<a href="https://github.com/depapp/pusakatest/graphs/contributors"><img src="https://contrib.rocks/image?repo=depapp/pusakatest" alt="All of amazing contributors"></a>
+<a href="https://github.com/depapp/IndoGitHubers/graphs/contributors"><img src="https://contrib.rocks/image?repo=depapp/IndoGitHubers" alt="All of amazing contributors"></a>
 
 
